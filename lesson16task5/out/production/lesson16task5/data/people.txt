@@ -1,0 +1,6 @@
+Employee Igor 35 500.5
+Student Vasya 18 3.5
+Person Grisha 23
+Employee Mitya 50 700.0
+Student Vitya 45 9.0
+Person Vova 70

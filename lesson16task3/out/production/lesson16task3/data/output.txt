@@ -1,0 +1,1 @@
+Person{name='Igor', age=41, salary=1001.0}
